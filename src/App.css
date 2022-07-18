@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #8291af;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.My-header {
+  background-color: rgb(193, 175, 209);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.My-footer {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ .My-content {
+  background-color: rgb(255, 255, 255);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 2em;
+  border-radius: 15px;
+  border: 2px solid #e07d7d;
+  margin-bottom: 1em;
+  text-align: center;
+ }
